@@ -1,1 +1,5 @@
 # 1KM_Discord_Bot
+## Purpose
+This bot was an integrated discord bot built for buisness applications. It was built to allow a seamless client managment system that could replace emails and manual task setting with simple commands from clients that appeared on employee's to-do lists. It also enabled the quick and easy onboarding of new clients and employees with commands. With additional features planned for the future, this bot enables fast, easy, and reliable communication between PMs and employees.
+## Integrations
+This bot was heavily integrated into the larger project whose goal was to unify and simplify the customer experience using APIs. As outlined in the help message, the bot commands were heavily integrated with the existing and developing software environment of 1KM. Using Zapier, we were able to use messages sent by both users and the bot to create tasks in ClickUp and new records in Excel. The website I helped design had a dedicated page with a discord embed which would allow clients to only need one login for our website with addional development to create a discord profile creation and password storage system. 
